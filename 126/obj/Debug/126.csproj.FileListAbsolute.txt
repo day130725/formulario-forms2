@@ -1,0 +1,10 @@
+C:\Users\UCLABRED11\Downloads\126\126\bin\Debug\126.exe.config
+C:\Users\UCLABRED11\Downloads\126\126\bin\Debug\126.exe
+C:\Users\UCLABRED11\Downloads\126\126\bin\Debug\126.pdb
+C:\Users\UCLABRED11\Downloads\126\126\bin\Debug\ClassLibrary1.dll
+C:\Users\UCLABRED11\Downloads\126\126\bin\Debug\ClassLibrary1.pdb
+C:\Users\UCLABRED11\Downloads\126\126\obj\Debug\126.csproj.AssemblyReference.cache
+C:\Users\UCLABRED11\Downloads\126\126\obj\Debug\126.csproj.CoreCompileInputs.cache
+C:\Users\UCLABRED11\Downloads\126\126\obj\Debug\126.csproj.Up2Date
+C:\Users\UCLABRED11\Downloads\126\126\obj\Debug\126.exe
+C:\Users\UCLABRED11\Downloads\126\126\obj\Debug\126.pdb
